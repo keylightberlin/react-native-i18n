@@ -1,13 +1,13 @@
 {
   "name": "react-native-i18n",
-  "version": "2.0.15",
+  "version": "2.0.16",
   "description": "Provide I18n to your React Native application",
   "license": "MIT",
   "author": "Alexander Zaytsev",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/AlexanderZaytsev/react-native-i18n.git"
+    "url": "git@github.com:keylightberlin/react-native-i18n.git"
   },
   "keywords": [
     "react-native",
